@@ -1,1 +1,1 @@
-# C-_ozellikler.
+# C++ozellikler.
